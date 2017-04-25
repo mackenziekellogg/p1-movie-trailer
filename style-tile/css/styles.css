@@ -72,6 +72,7 @@ a:active {
 h1 {
     font-family: 'Coda Caption', sans-serif;
     color: #ff0080;
+    text-transform: uppercase;
 }
 h2 {
     font-family: 'Raleway', sans-serif;
