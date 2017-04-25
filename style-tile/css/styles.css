@@ -5,25 +5,33 @@
 
 /* Color Palette */
 .color-1 {
-    background: red;
+    background: #ff0080;
 }
 .color-2 {
-    background: blue;
+    background: #f6e0e2;
 }
 .color-3 {
-    background: yellow;
+    background: #dcc3e0;
 }
 .color-4 {
-    background: purple;
+    background: #aac9ce;
 }
 .color-5 {
-    background: pink;
+    background: #000000;
 }
 /* Textures or Patterns*/
 .pattern-1 {
     background: url("../img/pixel_weave.png");
 }
-
+.pattern-2 {
+    background: url("../img/cream_pixels.png");
+}
+.pattern-3 {
+    background: url("../img/wavegrid.png");
+}
+.pattern-4 {
+    background: url("../img/p5.png");
+}
 /* Imagery */
 .imagery-1 img{
     border: 0;
