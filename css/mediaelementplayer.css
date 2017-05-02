@@ -128,9 +128,9 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
 }
 
 .mejs__overlay-button {
-    position: absolute;
-    top: 50%;
-    left: 50%;
+    position: relative;
+    top: 100%;
+    left: 125%;
     width: 80px;
     height: 80px;
     margin: -40px 0 0 -40px;
@@ -192,8 +192,8 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
     bottom: 0;
     left: 0;
     height: 40px;
-    width: 480px;
-    display: block;
+    width: 100%;
+}
 }
 
 .mejs__controls:not([style*="display: none"]) {
