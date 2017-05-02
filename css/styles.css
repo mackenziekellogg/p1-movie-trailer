@@ -1,4 +1,9 @@
 /* Styling */
 body {
-    background: #117789;
+    background: #ff0080;
+}
+h1 {
+    font-family: 'Coda Caption', sans-serif;
+    color: #ff0080;
+    text-transform: uppercase;
 }
