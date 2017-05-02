@@ -3,18 +3,19 @@
     html {
         background: white;
 }
-p {
-    color: black;
-    font-family: helvetica;
-    margin-top: 0px;
-    padding: 50px;
-}
 h1 {
-    font-family: 'Coda Caption', sans-serif;
-    color: #ff0080;
+    font-family: 'Raleway', sans-serif;
+    color: white;
     text-transform: uppercase;
     text-align: center;
     font-size: 10em;
     padding: 0px;
     background-image: url("http://images.contentful.com/7h71s48744nc/5qX6uIc7Kw0IyC28I20iam/45a907800bc853b98a9aeb3494f28641/bridemaids.jpg");
+}
+p {
+    color: black;
+    font-family: helvetica;
+    margin-top: 0px;
+    padding: 10px;
+    font-size: 1em;
 }
