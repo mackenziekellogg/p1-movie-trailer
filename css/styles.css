@@ -4,14 +4,15 @@
         background: white;
 }
 h1 {
-    font-family: 'Coda Caption', sans-serif;
     color: #black;
-    text-transform: uppercase;
 }
 p {
-    color: white;
-    margin: auto;
-    width: 50%;
-    border: 3px solid green;
-    padding: 10px;
+    color: black;
+    font-family: helvetica;
+    
+}
+h1 {
+    font-family: 'Coda Caption', sans-serif;
+    color: #ff0080;
+    text-transform: uppercase;
 }
