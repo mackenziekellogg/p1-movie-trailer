@@ -6,6 +6,7 @@
 p {
     color: black;
     font-family: helvetica;
+    margin-top: 0px;
     padding: 50px;
 }
 h1 {
@@ -13,5 +14,7 @@ h1 {
     color: #ff0080;
     text-transform: uppercase;
     text-align: center;
-    font-size: 13em; 
+    font-size: 10em;
+    padding: 0px;
+    background-image: url("http://images.contentful.com/7h71s48744nc/5qX6uIc7Kw0IyC28I20iam/45a907800bc853b98a9aeb3494f28641/bridemaids.jpg");
 }
