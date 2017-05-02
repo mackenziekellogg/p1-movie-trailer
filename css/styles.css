@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Coda+Caption:800|Raleway')
 /* Styling */
-    html {
+ body {
         background: white;
 }
 h1 {
@@ -8,15 +8,40 @@ h1 {
     color: white;
     text-transform: uppercase;
     text-align: center;
-    font-size: 90%;
+    font-size: 11em;
     padding: 0px;
     background-image: url("http://images.contentful.com/7h71s48744nc/5qX6uIc7Kw0IyC28I20iam/45a907800bc853b98a9aeb3494f28641/bridemaids.jpg");
     margin: 1px;
+    margin-bottom: 0;
 }
 p {
     color: black;
     font-family: helvetica;
-    margin-top: 0px;
+    margin-top: 0;
     padding: 10px;
-    font-size: 1em;
+    margin-bottom: 0;
+    font-size: 2em;
+    text-align: center;
+}
+ul {
+    text-align: center;
+    background: #ff0080;
+    padding: 1em;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+ul li {
+   text-decoration: none;
+    display: inline;
+    text-align: center;
+    padding: 4em;
+}
+a:link,
+a:visited {
+    color: white;
+    text-decoration: none;
+    font-family: helvetica;
+}
+a:active {
+    border-bottom: none;
 }
